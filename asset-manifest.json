@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/http//mohajon33.github.io/learn_React/static/css/main.5d4e9919.chunk.css",
-    "main.js": "/http//mohajon33.github.io/learn_React/static/js/main.5712d7cd.chunk.js",
-    "main.js.map": "/http//mohajon33.github.io/learn_React/static/js/main.5712d7cd.chunk.js.map",
-    "runtime-main.js": "/http//mohajon33.github.io/learn_React/static/js/runtime-main.fc6a355c.js",
-    "runtime-main.js.map": "/http//mohajon33.github.io/learn_React/static/js/runtime-main.fc6a355c.js.map",
-    "static/js/2.9492e45f.chunk.js": "/http//mohajon33.github.io/learn_React/static/js/2.9492e45f.chunk.js",
-    "static/js/2.9492e45f.chunk.js.map": "/http//mohajon33.github.io/learn_React/static/js/2.9492e45f.chunk.js.map",
-    "static/js/3.356d2eff.chunk.js": "/http//mohajon33.github.io/learn_React/static/js/3.356d2eff.chunk.js",
-    "static/js/3.356d2eff.chunk.js.map": "/http//mohajon33.github.io/learn_React/static/js/3.356d2eff.chunk.js.map",
-    "index.html": "/http//mohajon33.github.io/learn_React/index.html",
-    "static/css/main.5d4e9919.chunk.css.map": "/http//mohajon33.github.io/learn_React/static/css/main.5d4e9919.chunk.css.map",
-    "static/js/2.9492e45f.chunk.js.LICENSE.txt": "/http//mohajon33.github.io/learn_React/static/js/2.9492e45f.chunk.js.LICENSE.txt"
+    "main.css": "/http//mohajon33.github.io/learn_react/static/css/main.5d4e9919.chunk.css",
+    "main.js": "/http//mohajon33.github.io/learn_react/static/js/main.09608758.chunk.js",
+    "main.js.map": "/http//mohajon33.github.io/learn_react/static/js/main.09608758.chunk.js.map",
+    "runtime-main.js": "/http//mohajon33.github.io/learn_react/static/js/runtime-main.cb1a755f.js",
+    "runtime-main.js.map": "/http//mohajon33.github.io/learn_react/static/js/runtime-main.cb1a755f.js.map",
+    "static/js/2.c46cfb3f.chunk.js": "/http//mohajon33.github.io/learn_react/static/js/2.c46cfb3f.chunk.js",
+    "static/js/2.c46cfb3f.chunk.js.map": "/http//mohajon33.github.io/learn_react/static/js/2.c46cfb3f.chunk.js.map",
+    "static/js/3.e595888f.chunk.js": "/http//mohajon33.github.io/learn_react/static/js/3.e595888f.chunk.js",
+    "static/js/3.e595888f.chunk.js.map": "/http//mohajon33.github.io/learn_react/static/js/3.e595888f.chunk.js.map",
+    "index.html": "/http//mohajon33.github.io/learn_react/index.html",
+    "static/css/main.5d4e9919.chunk.css.map": "/http//mohajon33.github.io/learn_react/static/css/main.5d4e9919.chunk.css.map",
+    "static/js/2.c46cfb3f.chunk.js.LICENSE.txt": "/http//mohajon33.github.io/learn_react/static/js/2.c46cfb3f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fc6a355c.js",
-    "static/js/2.9492e45f.chunk.js",
+    "static/js/runtime-main.cb1a755f.js",
+    "static/js/2.c46cfb3f.chunk.js",
     "static/css/main.5d4e9919.chunk.css",
-    "static/js/main.5712d7cd.chunk.js"
+    "static/js/main.09608758.chunk.js"
   ]
 }
