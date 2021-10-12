@@ -4,10 +4,10 @@ import Expense from "./components/Expenses/Expense";
 import "./App.css";
 
 const dummy_expense = [
-  { title: "Toilet Pepar", amount: 94.2, date: new Date(2021, 3, 5) },
-  { title: "Mac", amount: 800, date: new Date(2021, 2, 15) },
-  { title: "Range Rover", amount: 92000, date: new Date(2021, 4, 2) },
-  { title: "Air pot", amount: 10.2, date: new Date(2021, 5, 5) },
+  { id: "e1", title: "Toilet Pepar", amount: 94.2, date: new Date(2021, 3, 5) },
+  { id: "e2", title: "Mac", amount: 800, date: new Date(2021, 2, 15) },
+  { id: "e3", title: "Range Rover", amount: 92000, date: new Date(2021, 4, 2) },
+  { id: "e4", title: "Air pot", amount: 10.2, date: new Date(2021, 5, 5) },
 ];
 
 function App() {
